@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-USER"
+      "value": "stone"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Qwer1234!@#$"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "stonevmdns2"
     }
   }
 }
